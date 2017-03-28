@@ -46,15 +46,15 @@
       var year = new Date().getFullYear();
   		$('#year').html(year);
       // Icon JSON
-      $.getJSON('demo/aircon.json', function(response){
-        for (aircon of response){
-          $('#aircons').append('<div class="aircon-holder"><a href="svg/'+aircon.name+'.svg" target="_blank"><span class="ac ac-arrow-down-circle"></span></a><div class="aircon-icon"><div class="ac '+aircon.name+'"></div></div><div class="aircon-name">'+aircon.name+'</div><div class="aircon-code">&#92;'+aircon.code+'</div></div>');
-          $('.aircon-holder').find('.ac-spinner-hex, .ac-spinner-notch, .ac-refresh, .ac-refresh-open, .ac-refresh-double').addClass('ac-spin');
-        }
-      }).fail(function(){
-          console.error("Failed to load icons");
-          alert("A problem occured retrieving the icons. Please refresh the page and try again.")
-      });
+      // $.getJSON('demo/aircon.json', function(response){
+      //   for (aircon of response){
+      //     $('#aircons').append('<div class="aircon-holder"><a href="svg/'+aircon.name+'.svg" target="_blank"><span class="ac ac-arrow-down-circle"></span></a><div class="aircon-icon"><div class="ac '+aircon.name+'"></div></div><div class="aircon-name">'+aircon.name+'</div><div class="aircon-code">&#92;'+aircon.code+'</div></div>');
+      //     $('.aircon-holder').find('.ac-spinner-hex, .ac-spinner-notch, .ac-refresh, .ac-refresh-open, .ac-refresh-double').addClass('ac-spin');
+      //   }
+      // }).fail(function(){
+      //     console.error("Failed to load icons");
+      //     alert("A problem occured retrieving the icons. Please refresh the page and try again.")
+      // });
       // Sticky Filter
       $(".filter-bar").sticky({topSpacing:0});
       // Filter
