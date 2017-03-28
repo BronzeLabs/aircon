@@ -11,7 +11,6 @@ Aircon can be used online and offline. The package contains the Aircon webfont, 
 <link rel="stylesheet" href="aircon-font.css">
 ```
 
-
 **Include:**
 Make sure that the fonts folder is next to the aircon-font.css file.
 
@@ -35,6 +34,6 @@ To rotate and flip icons, use the classes **.ac-flip-vertical**, **.ac-flip-hori
 <div class="ac ac-arrow ac-rotate-180"></div>
 ```
 
-**Changelog:**
+# Demo
 
-**Version 1.0 -** Features 570 Icons
+Visit https://jarigo1984.github.io/aircon/
