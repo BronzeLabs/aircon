@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="camera">
+	<g>
+		<path d="M32,20.9c-7.6,0-13.7,6.1-13.7,13.6S24.4,48.2,32,48.2s13.7-6.1,13.7-13.6S39.6,20.9,32,20.9z M32,45.2
+			c-5.9,0-10.7-4.8-10.7-10.6S26.1,23.9,32,23.9s10.7,4.8,10.7,10.6S37.9,45.2,32,45.2z"/>
+		<path d="M60.9,13H45V9.3c0-0.8-0.4-1.4-0.6-1.6C43.6,7,42.7,7,42,7l-19.6,0L22,7c-0.8,0-1.7,0-2.4,0.7C19.4,8,19,8.5,19,9.3V13
+			H3.1C1.3,13,0,14.3,0,16v38.3c0,1,0.4,2.6,3.1,2.6h57.8c2.7,0,3.1-1.6,3.1-2.6V16C64,14.3,62.7,13,60.9,13z M61,16l0,37.9
+			c0,0-0.1,0-0.1,0H3.1c0,0-0.1,0-0.1,0L3,16c0,0,0.1,0,0.1,0H22v-6l19.6,0l0.4,0v6h18.9C60.9,16,61,16,61,16C61,16,61,16,61,16z"/>
+	</g>
+</g>
+<g id="video">
+</g>
+<g id="step-backward">
+</g>
+<g id="fast-backward">
+</g>
+<g id="backward">
+</g>
+<g id="play">
+</g>
+<g id="stop">
+</g>
+<g id="pause">
+</g>
+<g id="record">
+</g>
+<g id="eject">
+</g>
+<g id="forward">
+</g>
+<g id="fast-forward">
+</g>
+<g id="step-forward">
+</g>
+<g id="repeat">
+</g>
+<g id="repeat-one">
+</g>
+<g id="shuffle">
+</g>
+<g id="mute">
+</g>
+<g id="sound-none">
+</g>
+<g id="sound-low">
+</g>
+<g id="sound-high">
+</g>
+<g id="step-backward-circle">
+</g>
+<g id="fast-backward-circle">
+</g>
+<g id="backward-circle">
+</g>
+<g id="play-circle">
+</g>
+<g id="stop-circle">
+</g>
+<g id="pause-circle">
+</g>
+<g id="record-circle">
+</g>
+<g id="eject-circle">
+</g>
+<g id="forward-circle">
+</g>
+<g id="fast-forward-circle">
+</g>
+<g id="step-forward-circle">
+</g>
+</svg>

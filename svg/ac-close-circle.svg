@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="check">
+</g>
+<g id="check-done">
+</g>
+<g id="close">
+</g>
+<g id="plus">
+</g>
+<g id="minus">
+</g>
+<g id="divide">
+</g>
+<g id="equal">
+</g>
+<g id="asterisk">
+</g>
+<g id="check-circle">
+</g>
+<g id="close-circle">
+	<g>
+		<path d="M32,0C14.4,0,0,14.4,0,32s14.4,32,32,32s32-14.3,32-32S49.6,0,32,0z M32,61C16,61,3,48,3,32S16,3,32,3s29,13,29,29
+			S48,61,32,61z"/>
+		<path d="M43.8,20.2c-0.6-0.6-1.5-0.6-2.1,0L32,29.9l-9.7-9.7c-0.6-0.6-1.5-0.6-2.1,0s-0.6,1.5,0,2.1l9.7,9.7l-9.7,9.7
+			c-0.6,0.6-0.6,1.5,0,2.1c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.1,1.1-0.4l9.7-9.7l9.7,9.7c0.3,0.3,0.7,0.4,1.1,0.4
+			c0.4,0,0.8-0.1,1.1-0.4c0.6-0.6,0.6-1.5,0-2.1L34.1,32l9.7-9.7C44.4,21.7,44.4,20.8,43.8,20.2z"/>
+	</g>
+</g>
+<g id="plus-circle">
+</g>
+<g id="minus-circle">
+</g>
+<g id="divide-circle">
+</g>
+<g id="equal-circle">
+</g>
+<g id="asterisk-circle">
+</g>
+<g id="check-box">
+</g>
+<g id="close-box">
+</g>
+<g id="plus-box">
+</g>
+<g id="minus-box">
+</g>
+<g id="divide-box">
+</g>
+<g id="equal-box">
+</g>
+<g id="asterisk-box">
+</g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="chart">
+</g>
+<g id="line-chart">
+</g>
+<g id="bar-chart">
+</g>
+<g id="bar-horizontal-chart">
+</g>
+<g id="area-chart">
+</g>
+<g id="pie-chart">
+	<g>
+		<path d="M32,0C14.3,0,0,14.4,0,32c0,17.6,14.3,32,32,32c17.7,0,32-14.2,32-32H32V0z"/>
+		<path d="M37.5,0.4v27.1H64C61.9,13.1,50.9,2.5,37.5,0.4z"/>
+	</g>
+</g>
+<g id="donut-chart">
+</g>
+</svg>

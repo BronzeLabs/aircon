@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="check">
+</g>
+<g id="check-done">
+</g>
+<g id="close">
+</g>
+<g id="plus">
+</g>
+<g id="minus">
+</g>
+<g id="divide">
+</g>
+<g id="equal">
+</g>
+<g id="asterisk">
+</g>
+<g id="check-circle">
+</g>
+<g id="close-circle">
+</g>
+<g id="plus-circle">
+</g>
+<g id="minus-circle">
+	<g>
+		<path d="M32,0.1C14.4,0.1,0,14.4,0,32s14.4,31.9,32,31.9S64,49.6,64,32S49.6,0.1,32,0.1z M32,60.9c-16,0-29-13-29-28.9
+			S16,3.1,32,3.1s29,13,29,28.9S48,60.9,32,60.9z"/>
+		<path d="M47,31H17c-0.8,0-1.5,0.7-1.5,1.5S16.2,34,17,34h30c0.8,0,1.5-0.7,1.5-1.5S47.8,31,47,31z"/>
+	</g>
+</g>
+<g id="divide-circle">
+</g>
+<g id="equal-circle">
+</g>
+<g id="asterisk-circle">
+</g>
+<g id="check-box">
+</g>
+<g id="close-box">
+</g>
+<g id="plus-box">
+</g>
+<g id="minus-box">
+</g>
+<g id="divide-box">
+</g>
+<g id="equal-box">
+</g>
+<g id="asterisk-box">
+</g>
+</svg>

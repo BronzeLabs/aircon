@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="truck">
+</g>
+<g id="car">
+	<g>
+		<path d="M64,42.5c0-0.1,0-0.1,0-0.2l-1.2-9.6c-0.1-3.9-3-7.1-6.8-7.6v-3.9C56,17.4,47.7,3,43,3H21C16.3,3,8,17.4,8,21.2v3.9
+			c-3.8,0.5-6.7,3.6-6.8,7.5L0,42.3c0,0.1,0,0.1,0,0.2c0,3.3,2.1,6,5,7V55c0,3.1,2.9,6,5.9,6h0.3c3,0,5.8-2.9,5.8-6v-5h30v5
+			c0,3.1,2.9,6,5.9,6h0.3c3,0,5.8-2.9,5.8-6v-5.5C61.9,48.5,64,45.8,64,42.5z M11,21.2C11,17.9,18.7,6.2,21,6H43
+			C45.3,6.2,53,17.9,53,21.2V25H11V21.2z M14,55c0,1.5-1.4,3-2.8,3h-0.3C9.5,58,8,56.4,8,55v-5h6V55z M56,55c0,1.5-1.4,3-2.8,3h-0.3
+			c-1.4,0-2.9-1.6-2.9-3v-5h6V55z M56.3,47h-7.8h-33H7.7C5.1,47,3,45.1,3,42.6l1.2-9.8c0-0.1,0-0.1,0-0.2C4.2,30.1,6.4,28,9,28h0.6
+			h45H55c2.6,0,4.7,2.1,4.7,4.8c0,0.1,0,0.1,0,0.2l1.2,9.6C61,45.1,58.9,47,56.3,47z"/>
+		<ellipse cx="11" cy="37.8" rx="3.4" ry="3.4"/>
+		<ellipse cx="53" cy="37.8" rx="3.4" ry="3.4"/>
+		<path d="M43,34H21c-0.8,0-1.5,0.7-1.5,1.5S20.2,37,21,37h22c0.8,0,1.5-0.7,1.5-1.5S43.8,34,43,34z"/>
+		<path d="M43,40H21c-0.8,0-1.5,0.7-1.5,1.5S20.2,43,21,43h22c0.8,0,1.5-0.7,1.5-1.5S43.8,40,43,40z"/>
+	</g>
+</g>
+<g id="taxi">
+</g>
+<g id="rocket">
+</g>
+<g id="tardis">
+</g>
+<g id="bus">
+</g>
+<g id="tram">
+</g>
+<g id="speedo">
+</g>
+<g id="air-machine">
+</g>
+<g id="speedo-alt">
+</g>
+<g id="motorcycle">
+</g>
+<g id="car-battery">
+</g>
+<g id="ufo">
+</g>
+<g id="arrivals">
+</g>
+<g id="petrol-pump">
+</g>
+<g id="gear-shift">
+</g>
+<g id="car-battery-alt">
+</g>
+<g id="road">
+</g>
+<g id="siren">
+</g>
+<g id="plane">
+</g>
+<g id="lorry">
+</g>
+<g id="train">
+</g>
+<g id="forklift">
+</g>
+<g id="bicycle">
+</g>
+<g id="underground">
+</g>
+<g id="paper-plane">
+</g>
+<g id="hotair-balloon">
+</g>
+</svg>

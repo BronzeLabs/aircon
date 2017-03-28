@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Aircon Demo</title>
+    <meta name="description" content="Aircon - A Light Weight Icon Font Library">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="aircon-font.css">
+    <link href="https://fonts.googleapis.com/css?family=Rubik" rel="stylesheet">
+    <link rel="stylesheet" href="demo/css/aircon-demo.css">
+</head>
+<body>
+  <header>
+    <h1>Aircon</h1>
+    <p>A Light Weight Icon Font Library</p><br><br>
+    <a href="aircon-package-1.0.zip" class="btn"><div class="ac ac-download"></div>Download Package 1.0</a>
+    <a class="howto-link"><div class="ac ac-eye"></div> How To Use</a>
+  </header>
+  <div id="howto" style="display:none;">
+    <p>Aircon can be used online and offline. The package contains the Aircon webfont, Adobe Illustrator (.ai) files and Individual SVG files.</p>
+    <h2>Install</h2>
+    <code>&#60;link rel="stylesheet" href="aircon-font.css"&#62;</code>
+    <h2>Include</h2>
+    <p>Make sure that the <strong><i>fonts</i></strong> folder is next to the <strong><i>aircon-font.css</i></strong> file.</p>
+    <h2>Code</h2>
+    <p>You can add an Aircon by using the class <strong><i>.ac</i></strong>, followed by the name of the Aircon like so:</p>
+    <code>&#60;div class="ac ac-check"&#62;&#60;/div&#62;</code>
+    <p>You can also add a spin effect by adding the class <strong><i>.ac-spin</i></strong>:</p>
+    <code>&#60;div class="ac ac-refresh ac-spin"&#62;&#60;/div&#62;</code>
+    <p>To rotate and flip icons, use the classes <strong><i>.ac-flip-vertical, .ac-flip-horizontal, .ac-rotate-90, .ac-rotate-180 and .ac-rotate-270</i></strong>:</p>
+    <code>&#60;div class="ac ac-arrow ac-rotate-180"&#62;&#60;/div&#62;</code>
+  </div>
+  <div class="filter-bar">
+    <input type="text" id="filter" value="" placeholder="Filter Icons">
+  </div>
+  <div id="aircons"></div>
+  <footer>
+    &copy; Copyright Jamie Gough <span id="year"></span>
+  </footer>
+
+  <script type="text/javascript" src="demo/js/jquery-3.1.1.min.js"></script>
+  <script src="demo/js/jquery.sticky.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      // Copyright Year
+      var year = new Date().getFullYear();
+  		$('#year').html(year);
+      // Icon JSON
+      $.getJSON('demo/aircon.json', function(response){
+        for (aircon of response){
+          $('#aircons').append('<div class="aircon-holder"><a href="svg/'+aircon.name+'.svg" target="_blank"><span class="ac ac-arrow-down-circle"></span></a><div class="aircon-icon"><div class="ac '+aircon.name+'"></div></div><div class="aircon-name">'+aircon.name+'</div><div class="aircon-code">&#92;'+aircon.code+'</div></div>');
+          $('.aircon-holder').find('.ac-spinner-hex, .ac-spinner-notch, .ac-refresh, .ac-refresh-open, .ac-refresh-double').addClass('ac-spin');
+        }
+      }).fail(function(){
+          console.error("Failed to load icons");
+          alert("A problem occured retrieving the icons. Please refresh the page and try again.")
+      });
+      // Sticky Filter
+      $(".filter-bar").sticky({topSpacing:0});
+      // Filter
+      $('#filter').keyup(function() {
+        var search = $(this).val().toLowerCase();
+        $('#aircons .aircon-holder').each(function() {
+          var name = $(this).find('.aircon-name').html().toLowerCase();
+          name.indexOf(search) !== -1 ?  $(this).show() : $(this).hide();
+        });
+      });
+      // How To
+      $('.howto-link').on('click', function(){
+        $('#howto').slideToggle();
+        $(this).find('.ac').toggleClass('ac-eye ac-eye-cross');
+      });
+    });
+  </script>
+</body>
+</html>

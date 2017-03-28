@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="camera">
+</g>
+<g id="video">
+</g>
+<g id="step-backward">
+</g>
+<g id="fast-backward">
+</g>
+<g id="backward">
+</g>
+<g id="play">
+</g>
+<g id="stop">
+</g>
+<g id="pause">
+</g>
+<g id="record">
+	<path d="M32,9.9C19.8,9.9,9.9,19.8,9.9,32S19.8,54.1,32,54.1S54.1,44.2,54.1,32S44.2,9.9,32,9.9z M32,51.1
+		c-10.5,0-19.1-8.6-19.1-19.1S21.5,12.9,32,12.9S51.1,21.5,51.1,32S42.5,51.1,32,51.1z"/>
+</g>
+<g id="eject">
+</g>
+<g id="forward">
+</g>
+<g id="fast-forward">
+</g>
+<g id="step-forward">
+</g>
+<g id="repeat">
+</g>
+<g id="repeat-one">
+</g>
+<g id="shuffle">
+</g>
+<g id="mute">
+</g>
+<g id="sound-none">
+</g>
+<g id="sound-low">
+</g>
+<g id="sound-high">
+</g>
+<g id="step-backward-circle">
+</g>
+<g id="fast-backward-circle">
+</g>
+<g id="backward-circle">
+</g>
+<g id="play-circle">
+</g>
+<g id="stop-circle">
+</g>
+<g id="pause-circle">
+</g>
+<g id="record-circle">
+</g>
+<g id="eject-circle">
+</g>
+<g id="forward-circle">
+</g>
+<g id="fast-forward-circle">
+</g>
+<g id="step-forward-circle">
+</g>
+</svg>

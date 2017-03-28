@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="truck">
+</g>
+<g id="car">
+</g>
+<g id="taxi">
+</g>
+<g id="rocket">
+</g>
+<g id="tardis">
+</g>
+<g id="bus">
+</g>
+<g id="tram">
+	<g>
+		<path d="M55.7,0H8.3C6.5,0,5,1.5,5,3.3v47.4C5,52.5,6.5,54,8.3,54h12.1c-0.2,0.1-0.4,0.2-0.6,0.3l-7.1,7.1c-0.6,0.6-0.6,1.5,0,2.1
+			c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.1,1.1-0.4l7.1-7.1c0.6-0.6,0.6-1.5,0-2.1c-0.2-0.2-0.4-0.3-0.6-0.3h21.2
+			c-0.2,0.1-0.4,0.2-0.6,0.3c-0.6,0.6-0.6,1.5,0,2.1l7.1,7.1c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.1,1.1-0.4c0.6-0.6,0.6-1.5,0-2.1
+			l-7.1-7.1c-0.2-0.2-0.4-0.3-0.6-0.3h12.1c1.8,0,3.3-1.5,3.3-3.3V3.3C59,1.5,57.5,0,55.7,0z M8,13h48v21H8V13z M8.3,3h47.4
+			C55.9,3,56,3.1,56,3.3V10H8V3.3C8,3.1,8.1,3,8.3,3z M55.7,51H8.3C8.1,51,8,50.9,8,50.7V37h48v13.7C56,50.9,55.9,51,55.7,51z"/>
+		<ellipse cx="17.4" cy="44.6" rx="3.6" ry="3.6"/>
+		<ellipse cx="46.6" cy="44.6" rx="3.6" ry="3.6"/>
+		<path d="M23,8h18c0.8,0,1.5-0.7,1.5-1.5S41.8,5,41,5H23c-0.8,0-1.5,0.7-1.5,1.5S22.2,8,23,8z"/>
+	</g>
+</g>
+<g id="speedo">
+</g>
+<g id="air-machine">
+</g>
+<g id="speedo-alt">
+</g>
+<g id="motorcycle">
+</g>
+<g id="car-battery">
+</g>
+<g id="ufo">
+</g>
+<g id="arrivals">
+</g>
+<g id="petrol-pump">
+</g>
+<g id="gear-shift">
+</g>
+<g id="car-battery-alt">
+</g>
+<g id="road">
+</g>
+<g id="siren">
+</g>
+<g id="plane">
+</g>
+<g id="lorry">
+</g>
+<g id="train">
+</g>
+<g id="forklift">
+</g>
+<g id="bicycle">
+</g>
+<g id="underground">
+</g>
+<g id="paper-plane">
+</g>
+<g id="hotair-balloon">
+</g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g id="calendar">
+</g>
+<g id="calendar-check">
+</g>
+<g id="day">
+</g>
+<g id="week">
+</g>
+<g id="time-forward">
+</g>
+<g id="time-reverse">
+</g>
+<g id="time">
+</g>
+<g id="clock">
+	<g>
+		<path d="M62.5-0.2h-61C0.7-0.2,0,0.5,0,1.3v61.3c0,0.8,0.7,1.5,1.5,1.5h61c0.8,0,1.5-0.7,1.5-1.5V1.3C64,0.5,63.3-0.2,62.5-0.2z
+			 M61,61.2H3V2.8h58V61.2z"/>
+		<path d="M32.1,57.1c13.8,0,25-11.2,25-25.1S45.9,6.9,32.1,6.9S7.1,18.2,7.1,32S18.3,57.1,32.1,57.1z M32.1,9.9
+			c12.1,0,22,9.9,22,22.1s-9.9,22.1-22,22.1s-22-9.9-22-22.1S19.9,9.9,32.1,9.9z"/>
+		<path d="M30.6,32.6c0.1,0.2,0.2,0.4,0.3,0.5l9.3,9.3c0.3,0.3,0.7,0.4,1.1,0.4c0.4,0,0.8-0.1,1.1-0.4c0.6-0.6,0.6-1.5,0-2.1
+			l-8.9-8.9V15c0-0.8-0.7-1.5-1.5-1.5s-1.5,0.7-1.5,1.5v17C30.5,32.2,30.6,32.4,30.6,32.6C30.6,32.6,30.6,32.6,30.6,32.6z"/>
+	</g>
+</g>
+<g id="clocks">
+</g>
+<g id="alarm-clock">
+</g>
+<g id="alarm-clock-add">
+</g>
+<g id="alarm-clock-off">
+</g>
+<g id="alarm-clock-set">
+</g>
+</svg>

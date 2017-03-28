@@ -1,0 +1,176 @@
+html{
+  font-size: 62.5%;
+}
+body {
+  background: white;
+  font-family: 'Rubik', sans-serif;
+  margin: 0;
+  margin-bottom: 56px;
+  padding: 0;
+  font-size: 1.8rem;
+}
+::selection{
+  background-color: #778596;
+  color: white;
+}
+
+
+
+
+
+
+header{
+  background-color: #778596;
+  color: white;
+  text-align: center;
+  padding: 100px;
+}
+footer{
+  background-color: #778596;
+  padding: 20px;
+  text-align: center;
+  font-size: 1.2rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: white;
+}
+h1{
+  font-size: 6rem;
+  margin-bottom: 0;
+  font-weight: 100;
+}
+a {
+  color: #778596;
+  text-decoration: none;
+}
+.btn{
+  border: 2px solid white;
+  border-radius: 4px;
+  color: white;
+  padding: 1.2rem 2rem;
+  transform: scale(1,1);
+  transition: all ease .3s;
+  display: inline-block;
+}
+.btn div{
+  margin-right: 1.2rem;
+}
+.btn:hover{
+  background-color: white;
+  color: #778596;
+  transform: scale(1.3,1.3);
+  transition: all ease .3s;
+}
+.howto-link{
+  color: white;
+  display: block;
+  margin-top: 20px;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+.filter-bar{
+  background-color: #edf0f7;
+  height: 80px;
+  margin-bottom: 2px;
+  border-bottom: 2px solid white;
+}
+#filter{
+  width: calc(100% - 200px);
+  height: 40px;
+  border: none;
+  outline: none;
+  background-color: #edf0f7;
+  font-size: 2rem;
+  color: #778596;
+  padding: 20px 100px;
+}
+::-webkit-input-placeholder{
+  color: #778596;
+}
+.filter-bar:before{
+  font-family: 'aircon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 2.7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  content: "\eab0";
+  position: absolute;
+  font-size: 3rem;
+  margin-left: 50px;
+  color: #778596;
+}
+.sticky-wrapper{
+  z-index: 9999;
+  position: relative;
+}
+
+
+
+
+
+
+
+.aircon-holder{
+  color: #778596;
+  text-align: center;
+  width: 25%;
+  display: inline-block;
+  background-color: #fff;
+  transition: all ease .3s;
+  position: relative;
+}
+.aircon-holder:hover{
+  background-color: #edf0f7;
+  transition: all ease .3s;
+}
+.aircon-holder:hover a{
+  opacity: 1;
+}
+.aircon-holder a {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  opacity: 0;
+  z-index: 9999;
+}
+.aircon-holder a:hover {
+  color: black;
+}
+.aircon-icon{
+  font-size: 6rem;
+  padding: 50px;
+  transform: scale(1,1);
+  transition: all ease .6s;
+}
+.aircon-holder:hover .aircon-icon{
+  transform: scale(1.3,1.3);
+  transition: all ease .6s;
+}
+.aircon-code{
+  font-size: 1.2rem;
+  margin-bottom: 50px;
+}
+
+
+
+
+
+
+#howto{
+  color: #778596;
+  text-align: center;
+  padding: 50px;
+}
