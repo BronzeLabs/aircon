@@ -2,21 +2,21 @@
 A Light Weight Icon Font Library
 
 
-##How To:
+**How To:**
 Aircon can be used online and offline. The package contains the Aircon webfont, Adobe Illustrator (.ai) files and Individual SVG files.
 
 
-##Install:
+**Install:**
 ```html
 <link rel="stylesheet" href="aircon-font.css">
 ```
 
 
-##Include:
+**Include:**
 Make sure that the fonts folder is next to the aircon-font.css file.
 
 
-##Code:
+**Code:**
 You can add an Aircon by using the class **.ac**, followed by the name of the Aircon like so:
 
 ```html
@@ -35,6 +35,6 @@ To rotate and flip icons, use the classes **.ac-flip-vertical**, **.ac-flip-hori
 <div class="ac ac-arrow ac-rotate-180"></div>
 ```
 
-##Changelog:
+**Changelog:**
 
 **Version 1.0 -** Features 570 Icons
