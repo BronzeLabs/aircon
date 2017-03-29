@@ -36,4 +36,4 @@ To rotate and flip icons, use the classes **.ac-flip-vertical**, **.ac-flip-hori
 
 # Demo
 
-Visit https://jarigo1984.github.io/aircon/
+Visit https://bronzelabs.github.io/aircon/
