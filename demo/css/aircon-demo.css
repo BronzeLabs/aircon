@@ -54,9 +54,11 @@ a {
   transition: all ease .3s;
   display: inline-block;
   cursor: pointer;
+  line-height: 1.8rem;
 }
-.btn div{
+.btn i{
   margin-right: 1.2rem;
+  float: left;
 }
 .btn:hover{
   background-color: white;
