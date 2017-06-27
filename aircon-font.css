@@ -79,7 +79,9 @@
 }
 
 
-
+.ac-route:before {
+  content: "\eb3a";
+}
 .ac-file-search:before {
   content: "\eb37";
 }

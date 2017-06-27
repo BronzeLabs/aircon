@@ -435,6 +435,7 @@
 {"name": "ac-rig", "code": "eaa8"},
 {"name": "ac-road", "code": "eaa9"},
 {"name": "ac-rocket", "code": "eaaa"},
+{"name": "ac-route", "code": "eb3a"},
 {"name": "ac-rss", "code": "eaab"},
 {"name": "ac-ruler-measure", "code": "eaac"},
 {"name": "ac-safe", "code": "eaad"},
