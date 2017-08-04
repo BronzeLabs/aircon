@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'aircon';
-  src:  url('fonts/aircon.eot?782etn');
-  src:  url('fonts/aircon.eot?782etn#iefix') format('embedded-opentype'),
-    url('fonts/aircon.ttf?782etn') format('truetype'),
-    url('fonts/aircon.woff?782etn') format('woff'),
-    url('fonts/aircon.svg?782etn#aircon') format('svg');
+  src:  url('fonts/aircon.eot?z4jg3c');
+  src:  url('fonts/aircon.eot?z4jg3c#iefix') format('embedded-opentype'),
+    url('fonts/aircon.ttf?z4jg3c') format('truetype'),
+    url('fonts/aircon.woff?z4jg3c') format('woff'),
+    url('fonts/aircon.svg?z4jg3c#aircon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -78,7 +78,9 @@
   transform: rotate(270deg);
 }
 
-
+.ac-boat:before {
+  content: "\eb3b";
+}
 .ac-route:before {
   content: "\eb3a";
 }
